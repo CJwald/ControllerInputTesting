@@ -1,0 +1,7 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Generating Code...
+  ImGui.vcxproj -> C:\Users\cjwal\Dev\Wankel\vendor\Binaries\windows-x86_64\Debug\ImGui\ImGui.lib
